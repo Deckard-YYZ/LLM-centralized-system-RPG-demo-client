@@ -1,0 +1,26 @@
+---,SourceNPCID,TargerNPCID,Attitude,AttitudeScore,relation
+Alex1,Alex,Arthur,Neutral/Don't care,0,Know
+Alex2,Alex,Bob,Friendly,0,Friend
+Alex3,Alex,Celin,Loving,0,Husband of
+Alex4,Alex,Alex,Self,0,Self
+Alex5,Alex,Frank,Nice,0,Beneficiary 
+Bob1,Bob,Arthur,Distrust,0,Heard of
+Bob2,Bob,Alex,Friendly,0,Friend
+Bob3,Bob,Bob,Self,0,Self
+Bob4,Bob,Eden,Obey,0,treat Eden as father like figure
+Celin1,Celin,Arthur,Intrested,0,Know
+Celin2,Celin,Alex,Loving,0,Wife of
+Celin3,Celin,Celin,Self,0,Self
+Celin4,Celin,Frank,Nice and warm,0,Beneficiary
+Dylan,Dylan,Arthur,Suspicious,0,Aware of
+Dylan1,Dylan,Bob,Distant,0,Friend
+Dylan2,Dylan,Dylan,Self,0,Self
+Dylan3,Dylan,Frank,Dislike,0,See him as a trouble
+Eden,Eden,Eden,Self,0,Self
+Eden1,Eden,Bob,Observe,0,Host of a demon spirit Eden summoned
+Eden2,Eden,Arthur,Curious,0,Heard of
+Frank,Frank,Alex,Gratitude,0,Guiding light
+Frank1,Frank,Celin,Gratitude,0,Guiding light
+Frank2,Frank,Dylan,Afarid,0,Know
+Frank3,Frank,Frank,Self,0,Self
+Frank4,Frank,Arthur,Avoiding,0,Know
