@@ -42,13 +42,3 @@
 ![NPC 对话示例](/assets/npc-dialogue.png)  
 *图5：实机画面*<br><br>
 
-
-## 🚀 快速开始 (Quick Start)
-
-### 环境
-- Unreal Engine 5.5.3
-
-### 使用方法
-1. 克隆仓库并在 Unreal 打开 
-   ```bash
-   git clone https://github.com/yourprofile/llm-rpg-agent-client.git
