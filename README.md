@@ -1,5 +1,50 @@
 # LLM Centralized System RPG Demo Client
+<details>
+<summary>English Version</summary>
 
+An **RPG prototype built on UE5**, demonstrating **LLM-powered NPC intelligence, dynamic dialogue, and evolving relationships**.  
+This repo is part of a Directed Study, focusing on **client-side dialogue pipelines, event systems, and prompt engineering**.
+
+## 🌟 Highlights
+- **Agent dialogue pipeline (client-side)**
+  - Encapsulation of context (player actions, NPC state, scene info)  
+  - Receives LLM-generated **JSON Schema** output  
+  - Dispatches events: NPC dialogue, attitude change, relationship updates  
+
+- **Event queue & behavior tree integration**
+  - Event queue manages NPC interactions  
+  - Prevents “busy conflicts” for coherent actions and dialogue  
+  - Integrates seamlessly with Unity behavior trees  
+
+- **Prompt engineering – Role framework (Starter / Intermediator / Recipients)**
+  - Clarifies NPC roles for consistent event targeting  
+  - Prevents confusion and conflicts in multi-party dialogue  
+
+- **Prompt engineering – Persona consistency & controllability**
+  - Strict JSON Schema + prompt-defined identities  
+  - Keeps NPCs consistent across multi-turn dialogues  
+  - Reduces hallucinations and off-topic outputs  
+
+## 📐 Architecture
+![System Architecture](https://github.com/user-attachments/assets/ba0b34da-e0c2-4edc-a81b-e15aa0d117ad)  
+*Fig.1: Overall pipeline – context encapsulation → JSON Schema → LLM output → event dispatch → NPC response*  
+
+![Event Dispatch Sequence](https://github.com/user-attachments/assets/691c6dfa-0c38-4f2a-bce7-b77bc5d43035)  
+*Fig.2: Event queue and NPC behavior tree integration*  
+
+## 📺 Demo
+![Dialogue Example 1](https://github.com/user-attachments/assets/d14ea426-4d04-4284-9d32-3e0876c6ac5f)
+![Dialogue Example 2](https://github.com/user-attachments/assets/d2a01c6b-5808-4c37-bdb6-3a3d8d49b2ca)  
+*Fig.3 & 4: NPC dialogue and relationship evolution*  
+
+![NPC In-Game Screenshot](/assets/npc-dialogue.png)  
+*Fig.5: In-game scene*  
+
+</details>
+
+
+<details>
+<summary>中文说明</summary>
 一个基于 UE5 的 **RPG 游戏原型**，展示了 **大语言模型 (LLM) 驱动的智能 NPC、动态对话与关系演化**。  
 本仓库是定向研究（Directed Study）的主要部分，重点在于 **客户端侧的对话管线实现、事件系统、提示词工程**。
 
@@ -42,3 +87,4 @@
 ![NPC 对话示例](/assets/npc-dialogue.png)  
 *图5：实机画面*<br><br>
 
+</details>
