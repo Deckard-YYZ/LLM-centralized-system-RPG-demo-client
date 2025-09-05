@@ -1,6 +1,6 @@
 # LLM Centralized System RPG Demo Client
 <details>
-<summary>English </summary>
+<summary>English Introduction</summary>
 
 An **RPG prototype built on UE5**, demonstrating **LLM-powered NPC intelligence, dynamic dialogue, and evolving relationships**.  
 This repo is part of a Directed Study, focusing on **client-side dialogue pipelines, event systems, and prompt engineering**.
@@ -44,7 +44,7 @@ This repo is part of a Directed Study, focusing on **client-side dialogue pipeli
 
 
 <details>
-<summary>中文</summary>
+<summary>中文介绍</summary>
 一个基于 UE5 的 **RPG 游戏原型**，展示了 **大语言模型 (LLM) 驱动的智能 NPC、动态对话与关系演化**。  
 本仓库是定向研究（Directed Study）的主要部分，重点在于 **客户端侧的对话管线实现、事件系统、提示词工程**。
 
