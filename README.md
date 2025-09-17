@@ -39,8 +39,7 @@ This repo is part of a Directed Study, focusing on **client-side dialogue pipeli
 ![Dialogue Example 2](https://github.com/user-attachments/assets/d2a01c6b-5808-4c37-bdb6-3a3d8d49b2ca)  
 *Fig.3 & 4: NPC dialogue and relationship evolution*  
 
-![NPC In-Game Screenshot](/assets/npc-dialogue.png)  
-*Fig.5: In-game scene*  
+
 
 </details>
 
@@ -87,7 +86,5 @@ This repo is part of a Directed Study, focusing on **client-side dialogue pipeli
 ![NPC 对话示例2](https://github.com/user-attachments/assets/d2a01c6b-5808-4c37-bdb6-3a3d8d49b2ca)
 *图3 & 4：NPC 对话与关系值演化示例*<br><br>
 
-![NPC 对话示例](/assets/npc-dialogue.png)  
-*图5：实机画面*<br><br>
 
 </details>
